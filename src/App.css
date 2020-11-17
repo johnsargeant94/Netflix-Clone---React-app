@@ -1,0 +1,62 @@
+body{
+    background-color: black;
+    color:white;
+    text-align: center;
+    margin: 0%;
+    padding: 0%;
+    border: 0%;
+}
+
+h1 {
+    font-size: 300%;
+}
+
+.boxcontainer {
+    border: 2px solid #2D2D2D;
+    background-color: #2D2D2D;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 0.5%;
+    margin-bottom: 0.5%;
+    padding-bottom: 0.1%;
+    
+
+   
+}
+
+h2 {
+    color: whitesmoke;
+    text-align: left;
+    text-align:left;
+    float:left;
+    margin-left: 3%;
+    font-weight: 400;
+   
+}
+
+h3 {
+    color: whitesmoke;
+    text-align: right;
+    padding-right: 10px;
+    
+    
+
+  
+    
+}
+
+.button {
+    background-color: red;
+    border: 0;
+    
+    color: white;
+    padding: 15px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 60px 2px;
+    cursor: pointer;
+    
+}
+
