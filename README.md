@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+Too add to heroku - Heroku settings and then BuildPack then add -   mars/create-react-app
+
+
 ## Available Scripts
 
 In the project directory, you can run:
